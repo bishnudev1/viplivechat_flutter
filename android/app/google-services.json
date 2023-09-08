@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1034848205405",
+    "project_id": "tengo-clone",
+    "storage_bucket": "tengo-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034848205405:android:d79edcf4ead2a2e5e4ebb4",
+        "android_client_info": {
+          "package_name": "com.tengo.xitijapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034848205405-e2tb1cn8c2ivb2k42ds7uq4bst700612.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tengo.xitijapp",
+            "certificate_hash": "3b790de861ad4d9124fdc4e8afca995d3357f738"
+          }
+        },
+        {
+          "client_id": "1034848205405-gc373cje35ncf8bgr9h91d49nrc0flee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn_aIboLw-zCt7r6nV4nU0HdGLQo5z0MU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034848205405-gc373cje35ncf8bgr9h91d49nrc0flee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
